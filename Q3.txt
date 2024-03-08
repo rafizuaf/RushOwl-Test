@@ -1,0 +1,9 @@
+React:
+
+Target Platform: Web browsers
+Runtime Environment: React applications run in web browsers using the Document Object Model (DOM). React utilizes the virtual DOM to efficiently update and render UI components by minimizing direct manipulations of the actual DOM. This allows React to provide a fast and responsive user interface in web applications.
+
+React Native:
+
+Target Platform: Mobile devices (iOS and Android)
+Runtime Environment: React Native uses a different runtime environment. It doesn't render components using the DOM but employs native components instead. React Native bridges JavaScript code to the native APIs of iOS and Android, allowing developers to build mobile applications using React-like syntax. This approach enables the creation of cross-platform mobile apps with a native look and feel.
